@@ -3,7 +3,9 @@ This repository contains the code and data to recreate the figures from the pape
 
 ## Contents
 -**figure#.m**: MATLAB scripts that generate the figures.  Each script pulls data from the corresponding **figure#_data.mat** file.
+
 -**figure#_data.mat**: Data files used by the MATLAB scripts to create the figures.
+
 -**LICENSE**:  MIT License details.
 
 ## Usage
