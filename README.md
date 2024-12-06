@@ -18,6 +18,7 @@ This repository contains the code and data to recreate the figures from the pape
     cd davidson-et-al-2022-code
     ```
 3. **Run the MATLAB scripts**:
+
     Open MATLAB and run the desired `figure#.m` script to generate the corresponding figure.
 
 ## Requirements
