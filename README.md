@@ -1,4 +1,4 @@
-# Davidson-et-al-2022-code
+# davidson-et-al-2022-code
 This repository contains the code and data to recreate the figures from the paper "**Microplastic contamination of sediments across and within three beaches in western Lake Superior**" by Davidson et al., 2022, published in the _Journal of Great Lakes Research_.
 
 ## Contents
@@ -9,7 +9,7 @@ This repository contains the code and data to recreate the figures from the pape
 ## Usage
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/davidson-ben/Davidson-et-al-2022-code.git
+    git clone https://github.com/davidson-ben/davidson-et-al-2022-code.git
     ```
 2. **Navigate to the repository directory**:
     ```bash
